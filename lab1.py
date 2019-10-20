@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 import requests
 
-#input
+#dane
 currency1 = 'USD'
 currency2 = 'DKK'
 dateFrom = '2019-01-01'
